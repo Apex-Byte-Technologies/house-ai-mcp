@@ -1,0 +1,21 @@
+{
+  "name": "house-ai",
+  "displayName": "House AI",
+  "version": "1.0.0",
+  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
+  "author": {
+    "name": "Addicting Elements",
+    "email": "support@addictingelements.com",
+    "url": "https://www.houseaiapp.com"
+  },
+  "homepage": "https://www.houseaiapp.com/connector",
+  "repository": "https://github.com/Apex-Byte-Technologies/house-ai-mcp",
+  "license": "MIT",
+  "keywords": [
+    "interior design",
+    "home decor",
+    "remodel",
+    "furniture",
+    "landscaping"
+  ]
+}

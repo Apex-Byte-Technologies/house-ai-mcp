@@ -1,0 +1,10 @@
+{
+  "name": "house-ai",
+  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Addicting Elements"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.png"
+}

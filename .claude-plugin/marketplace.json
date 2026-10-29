@@ -1,0 +1,15 @@
+{
+  "name": "house-ai-mcp",
+  "description": "House AI for Claude Code",
+  "owner": {
+    "name": "Addicting Elements",
+    "email": "support@addictingelements.com"
+  },
+  "plugins": [
+    {
+      "name": "house-ai",
+      "source": "./",
+      "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look."
+    }
+  ]
+}

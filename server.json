@@ -1,0 +1,43 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.houseaiapp/house-ai",
+  "title": "House AI",
+  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.houseaiapp.com/connector",
+  "icons": [
+    {
+      "src": "https://www.houseaiapp.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.houseaiapp.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Optional personal API token from houseaiapp.com/app/connector. Leave it out to sign in with OAuth.",
+          "isRequired": false,
+          "isSecret": true,
+          "value": "Bearer {token}",
+          "variables": {
+            "token": {
+              "description": "House AI personal API token (hai_...)",
+              "isRequired": false,
+              "isSecret": true
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/Apex-Byte-Technologies/house-ai-mcp",
+    "source": "github"
+  }
+}

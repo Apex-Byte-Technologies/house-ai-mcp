@@ -1,0 +1,21 @@
+{
+  "name": "house-ai",
+  "version": "1.0.0",
+  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
+  "mcpServers": {
+    "house-ai": {
+      "httpUrl": "https://mcp.houseaiapp.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${HOUSE_AI_TOKEN}"
+      }
+    }
+  },
+  "settings": [
+    {
+      "name": "House AI token",
+      "description": "Optional personal API token from houseaiapp.com/app/connector",
+      "envVar": "HOUSE_AI_TOKEN",
+      "sensitive": true
+    }
+  ]
+}
