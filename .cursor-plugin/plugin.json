@@ -1,7 +1,7 @@
 {
   "name": "house-ai",
-  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
-  "version": "1.0.0",
+  "description": "The Amazon for interior design: redesign rooms, exteriors and yards from a photo, then buy the look.",
+  "version": "1.0.1",
   "author": {
     "name": "Addicting Elements"
   },

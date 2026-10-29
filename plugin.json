@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "house-ai",
-  "version": "1.0.0",
-  "description": "AI interior design: redesign rooms, exteriors and yards from a photo, and shop the look.",
+  "version": "1.0.1",
+  "description": "The Amazon for interior design: redesign rooms, exteriors and yards from a photo, then buy the look.",
   "author": {
     "name": "Addicting Elements",
     "url": "https://www.houseaiapp.com",

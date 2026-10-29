@@ -2,9 +2,9 @@
 
 <img src="assets/logo.png" alt="House AI" width="96" align="right">
 
-House AI is an AI interior design studio. This repo connects it to AI assistants and coding agents through the [Model Context Protocol](https://modelcontextprotocol.io). Share a photo of a room, a house or a yard, pick a style, and House AI shows you a photorealistic redesign of that same space. You can also preview a wall paint color or new flooring, empty a cluttered room, furnish an empty one, and find real furniture and decor like the pieces in your design.
+House AI is the Amazon for interior design. This repo connects it to AI assistants and coding agents through the [Model Context Protocol](https://modelcontextprotocol.io). Share a photo of a room, a house or a yard, pick a style, and House AI shows you a photorealistic redesign of that same space. You can also preview a wall paint color or new flooring, empty a cluttered room, furnish an empty one, and find real furniture and decor like the pieces in your design.
 
-House AI is used in 175+ countries and is a top 10 design app in the US, Canada and Australia.
+House AI has 250k+ users in 175+ countries and is #7 on the App Store. Partner decor shops and stores list their products with House AI, so in the app you can buy what you see in your redesign in one click. In your AI assistant, House AI finds those products and links you to each store.
 
 - **Server:** `https://mcp.houseaiapp.com/mcp` (Streamable HTTP)
 - **Docs:** https://www.houseaiapp.com/connector
