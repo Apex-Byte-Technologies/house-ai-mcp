@@ -83,7 +83,7 @@ Each design uses one House AI credit. Product results link to each retailer's ow
 
 - Privacy policy: https://www.houseaiapp.com/privacy-policy#connector
 - Terms of service: https://www.houseaiapp.com/tos
-- Support: https://www.houseaiapp.com/contact-us or support@addictingelements.com
+- Support: https://www.houseaiapp.com/contact-us or info@houseaiapp.com
 
 The House AI server itself is not open source. This repo holds the public connection files (Claude Code plugin, Cursor plugin, Gemini CLI extension and MCP Registry entry).
 
